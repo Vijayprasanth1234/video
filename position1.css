@@ -1,0 +1,48 @@
+.vi{
+    background-image: url(./gojo.jpeg);
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    top: 9px;
+    border: 2px solid black;
+    
+}
+.to{
+    background-image: url(./fshiguro.jpeg);
+    height: 200px;
+    width: 200px;
+    position: relative;
+    left: 200px;
+    bottom:30px;
+    
+    
+   
+}
+.go{
+    background-image: url(./yuuji1.jpeg);
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    left: 410px;
+    bottom: 387px;
+}
+.su{
+    background-image: url(./mahito.jpeg);
+    height: 200px;
+    width: 168px;
+    position: relative;
+    left: 600px;
+    bottom: 245px;
+}
+.ks{
+    position: relative;
+    font-size: 30px;
+    color: purple;
+    left: 10px;
+}
+.it{
+    position: absolute;
+    font-size: 40px;
+    color: blue
+}
+
